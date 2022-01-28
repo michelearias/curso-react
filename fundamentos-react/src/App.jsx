@@ -1,5 +1,6 @@
 import React from "react";
 
+
 import Aleatorio from "./componentes/basicos/Aleatorio";
 import Primeiro from "./componentes/basicos/Primeiro";
 import ComParametro from "./componentes/basicos/ComParametro";
